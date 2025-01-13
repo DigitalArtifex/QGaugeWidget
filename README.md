@@ -24,13 +24,13 @@ QGaugeWidget supports the display format for temperature, percentage and raw val
 </tr>
 <tr>
 <td>
-![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/screenshot.png)
+<img src="https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/screenshot.png" />
 </td>
 <td>
-![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/percent.png)
+<img src="https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/percent.png" />
 </td>
 <td>
-![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/value.png)
+<img src="https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/value.png" />
 </td>
 </tr>
 </table>
