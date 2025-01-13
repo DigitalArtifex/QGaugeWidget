@@ -1,6 +1,7 @@
-![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/screenshot.png)
 # QGaugeWidget
 A Gauge Cluster Widget for Qt
+
+![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/screenshot.png)
 
 ## Usage
 
