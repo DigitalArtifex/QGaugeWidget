@@ -10,7 +10,7 @@ A Gauge Cluster Widget for Qt
     m_temperatureGauge->setFixedSize(150,150);
     m_temperatureGauge->setIconSize(QSize(36,36));
     m_temperatureGauge->setIcon(QIcon(":/icons/temperature.png"));
-    m_temperatureGauge->setMaximum(QIcon(":/icons/temperature.png"));
+    m_temperatureGauge->setMaximum(100);
     m_temperatureLayout->addWidget(m_temperatureGauge);
 ```
 
