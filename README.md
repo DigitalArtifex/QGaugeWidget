@@ -16,17 +16,24 @@ A Gauge Cluster Widget for Qt
 
 QGaugeWidget supports the display format for temperature, percentage and raw values by passing either `QGaugeWidget::Temperature`, `QGaugeWidget::Percent` or `QGaugeWidget::Value` to the constructor as the Mode flag.
 
-Temperature
-
+<table>
+<tr>
+<th> Temperature </th>
+<th> Percentage </th>
+<th> Raw Value </th>
+</tr>
+<tr>
+<td>
 ![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/screenshot.png)
-
-Percentage
-
+</td>
+<td>
 ![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/percent.png)
-
-Raw Value
-
+</td>
+<td>
 ![alt text](https://github.com/DigitalArtifex/QGaugeWidget/blob/main/images/value.png)
+</td>
+</tr>
+</table>
 
 ### Icons
 
